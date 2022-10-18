@@ -1,12 +1,12 @@
 ---
 
-title: yours, is 💝
+title: 💝 yours, is
 include: ['_pages']
 
 # You may need to change the base URL depending on your deploy configuration.
 # Specifically, when using GitHub Pages, the baseurl should point to where GitHub
 # Pages deploys your repository (which is usually the repository name).
-baseurl: '/'
+baseurl: ''
 
 # Set to `true` to open non-internal links in new tabs, or
 # set to `false` to open non-internal links in current tab.
