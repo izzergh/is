@@ -4,43 +4,19 @@ title: Home
 id: home
 permalink: /
 ---
-<h1>Hello World.</h1>
+## hiiiiieeee~~
+Hello! I go by is.
+This site will hold little articles (bog).
 
-Here is some normal text.
-Here is some normal text.
-Here is some normal text.
-Here is some normal text.
-Herme normal text.
-Herme normal text.
-Herme normal text.
-Herme normal text.
-Herme normal text.
-Herme normal text.
-Herme normal text.
-Here is some normal text.
-Here is some normal text.
-Here is some normal text.
-Here is some normal text.
+Check in some other time for:
+- recipes and cooking tips
+- unicode
+- casual math
+- etymology
+- video games
+- vim?
+- hopefully not miscellaneous opinions, but that'll _for shore_ be thrown into the others
+- cetera
 
-> Here is a blockquote
- H blockquote
- H blockquote
- H blockquote
- H blockquote
- H blockquote
- H blockquote
- H blockquote
- H blockquote
- H blockquote
- H blockquote
- H blockquote
- H blockquote
- H blockquote
- H blockquote
- H blockquote
- H blockquote
- Here is a blockquote
- Here is a blockquote
- Here is a blockquote
- Here is a blockquote
- Here is a blockquote
+You can see the source for this site and some of my other projects on
+  [GitHub](https://github.com/izzergh).
