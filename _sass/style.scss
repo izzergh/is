@@ -37,6 +37,10 @@ footer {
   padding-top: 1em;
 }
 
+.footnotes {
+  font-size: 0.8em;
+}
+
 img {
   max-width: 100%;
   display: block;
@@ -90,7 +94,7 @@ a {
     position: relative;
     top: -0.5em;
     font-size: 0.7em;
-    content: "↗";
+    content: "🌐";
     color: #aaaaaa;
   }
   &.internal-link:after,

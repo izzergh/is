@@ -10,6 +10,7 @@ This site will hold little articles (bog).
 
 Check in some other time for:
 - recipes and cooking tips
+- unicode
 - casual math
 - etymology
 - video games

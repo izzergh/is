@@ -64,6 +64,9 @@
 
   function showTooltip(event) {
     var elem = event.target;
+    {% comment %} don't show a preview to the current page in footnotes, that's annoying {% endcomment %}
+    if (elem.className == "reversefootnote" || elem.className == "footnote") { return }
+
     var elem_props = elem.getClientRects()[elem.getClientRects().length - 1];
     var top = window.pageYOffset || document.documentElement.scrollTop
 
