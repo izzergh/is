@@ -6,7 +6,7 @@ permalink: blog/rumpelstiltskin
 
 
 _TL;DR, I made a [plugin](https://github.com/izzergh/rumpelstiltskin) for vim.
-It lets you fuzzy search unicode codepoints and some combining character
+It lets you fuzzy search Unicode code points and some combining character
 sequences._
 
 ## 1. Some Background
@@ -16,7 +16,7 @@ simply not leaving their terminal.
 Forgoing the modern GUIs to which I had become accustomed, these tricksters,
 these _impossibly_ capable developers, would never lift their fingers from
 their keyboards[^1-3].
-Further, what was on their screens was nigh inscrutible to me.
+Further, what was on their screens was nigh inscrutable to me.
 Solid lines would zoom across the terminal, the cursor would teleport seemingly
 at will, and then the user would patiently point with their finger to the
 correct square I should focus my inferior eyes upon[^1-4].
@@ -38,11 +38,11 @@ new technologies slower... -->
 This job had us using Macbooks, and I found one feature indispensable:
 [the character viewer][osx char viewer link].
 With a simple key combination, I could search (by vague description) for any
-character my computer could make, and put it where my curor was.
+character my computer could make, and put it where my cursor was.
 
 After leaving this job, I found myself trying to do this on my entirely
 non-apple machines.
-The best I could do was visit some online unicode database or just google what
+The best I could do was visit some online Unicode database or just google what
 I would type into the character viewer and hope it knew what I meant.
 
 Both Windows[^2-1] and Linux[^2-2] have various insufficient simulacra of the
@@ -51,7 +51,7 @@ Each has their own issues and inefficiencies, and none of it was as seamless
 as `⌘+⌴`.
 
 I decided there _must_ be a vim plugin for this, right?
-The venn diagram of vim users and odd-unicode-placers must have a significant
+The venn diagram of vim users and odd-Unicode-placers must have a significant
 overlap, right?
 And there are!
 
@@ -144,7 +144,7 @@ Not easy to come up with use cases for that one!
 ### 3.2. The Other Thing
 FZF is built to search for lines in a file, not individual characters or
 objects with hidden metadata.
-So, what we feed FZF is a source file - a plaintext file where "what to insert"
+So, what we feed FZF is a source file - a plain text file where "what to insert"
 is on the left, then all its names are to the right.
 
 Here's a short line, a code point with just a name and an id:
@@ -161,7 +161,7 @@ as an aside, most terminal emulators don't render ZWJ sequences[^3-4], so that
 looks gnarly in source code: `🏴<200d>☠`. Plus the emoji tend to be _slightly_
 wider than one character width, so there's some overlap sometimes. Say La V.
 
-These are compiled into the "base source", which is _every_ unicode codepoint
+These are compiled into the "base source", which is _every_ Unicode code point
 and supported ZWJ sequence, followed by its names.
 Here's the format[^3-5]:
 
@@ -174,13 +174,13 @@ search terms
 - `(default name)` is the name of the character in the Unicode standard, e.g.
 "latin capital letter a" for `A`
 - `(CLDR English nicknames)` is all of the CLDR names in English
-- `(id)` is the id of the codepoint in the format `U+id#`
+- `(id)` is the id of the code point in the format `U+id#`
 
 A final snag is, to keep things hard for me, there are some _ranges_ that
 Unicode has in its Big List Of Characters.
 Instead of chasing down everything in that range and adding it to the task,
-I just had Ruby loop through the range and spit out the unicode for that
-codepoint.
+I just had Ruby loop through the range and spit out the Unicode for that
+code point.
 There are no ranges in the final output! Every character is there!
 
 This is all scraped from the various public Unicode standard repositories, then
@@ -209,7 +209,7 @@ The framework is not limited to single characters or combining character
 sequences; you can have anything in the data field.
 The completion function works in a way that you could, for example, type in an
 ambiguous acronym, whip up Rumpelstiltskin, and replace it from the list of
-the matching definitons you've provided.
+the matching definitions you've provided.
 
 You could also use it to store some "favorites" - a subset of the "base" set
 provided, just with commonly used lines to keep things clean.
@@ -226,7 +226,7 @@ having to rewrite the entire plugin (or even fork it).
 Those that know me in person know Rumpelstiltskin, but few of them have all the
 context that I've laid out here.
 In one sense, this has been an advertisement.
-In another, it's a plceholder (this is the first post I published!).
+In another, it's a placeholder (this is the first post I published!).
 In a third, more sexy sense, it's a look into how I approach problem solving,
 and what problems I choose to solve.
 
