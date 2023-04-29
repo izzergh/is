@@ -2,7 +2,7 @@
 layout: post
 title: Rumpelstiltskin (the vim plugin)
 permalink: blog/rumpelstiltskin
-tags: ["my code", "the unicode of the world"]
+tags: ["software projects", "unicode"]
 ---
 
 
