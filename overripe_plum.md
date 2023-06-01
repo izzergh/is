@@ -108,7 +108,16 @@ _- <small>tumblr blog "eikotheblue" 25 August 2022[^6]</small>_
 Unlike the previous two, this one has explicit insight into the author's
 emotional state.
 
-There are surely more, but here's the third I saw that got this really stuck in
+The following has just one sentence with these parentheses, but the type of
+basic expository information, the back-to-back parentheses, and the platform
+the post is on, make it surely a reference:
+
+> I was on the tram (crowded tram) (just after 11 AM) on my way home full of
+> adrenaline still, and saw my dad eating a banana on the platform.
+
+_- <small>tumblr blog "cool-jpgs-of-wizards-with-swords" 26 May 2023[^7]</small>_
+
+There are surely more, but here's the one I saw that got this really stuck in
 my brain:
 
 > uhm anyway i was gonna say. there a type of mspfa user ive learned about
@@ -125,7 +134,7 @@ my brain:
 > Our Own logo followed by "go here". The other party responds with "to ao3?".
 > The user replies "go to ao3"](/assets/overripe_plum_img_1.png)
 
-_- <small>tumblr blog "wanderingemperor" 11 May 2023[^7]</small>_
+_- <small>tumblr blog "wanderingemperor" 11 May 2023[^8]</small>_
 
 This has become a listicle. Sorry.
 
@@ -159,7 +168,7 @@ finished talking about his mother's death.
 ### A Small Place
 
 The closest I can find (this is a difficult topic to search without consulting
-actually well-read people) is Jamaica Kincaid's book *A Small Place*[^8].
+actually well-read people) is Jamaica Kincaid's book *A Small Place*[^9].
 Kincaid uses parentheses (delimited by parentheses or commas or hyphens)
 liberally, but not as densely as to be overripe-plum-esque.
 
@@ -204,7 +213,7 @@ without letting the reader rest here is more context (and then some more).
 
 ### Cosmicomics
 
-Italo Calvino's *Cosmicomics*[^9] includes some repeated parentheses (at least
+Italo Calvino's *Cosmicomics*[^10] include some repeated parentheses (at least
 in my translation).
 The purpose in those is to add upon the conceit that the narrator was "really
 there", and so they helpfully (somewhat condescendingly) add some context that
@@ -252,16 +261,22 @@ somehow if you know of more roots for the "overripe plum" style.
     [Archived](https://web.archive.org/web/20220826040109/https://eikotheblue.tumblr.com/post/693616544567246848/overripe-plum-voice)
 
 [^7]:
+    It's the latest reblog in the chain.
+    [Post](https://cool-jpgs-of-wizards-with-swords.tumblr.com/post/718381873042210816/so-it-helps-to-know-that-my-mindset-at-the-time)
+    |
+    [Archived](https://web.archive.org/web/20230528073236/https://cool-jpgs-of-wizards-with-swords.tumblr.com/post/718381873042210816/so-it-helps-to-know-that-my-mindset-at-the-time)
+
+[^8]:
     AO3 is "archive of our own", a fanfiction site.
     [Post](https://wanderingemperor.tumblr.com/post/717018355489472512/uhm-anyway-i-was-gonna-say-there-a-type-of-mspfa)
     |
     [Archived](https://web.archive.org/web/20230601004318/https://wanderingemperor.tumblr.com/post/717018355489472512/uhm-anyway-i-was-gonna-say-there-a-type-of-mspfa)
 
-[^8]:
+[^9]:
     I found a copy online without metadata I can use. If I find myself in a
     library I'll get page numbers etc. and put them here. It's a short book;
     the excerpts are easy to find (and in order!). I recommend it also.
 
-[^9]:
+[^10]:
     I actually have this one! The excerpt I use is from page 216 of *The
     Complete Cosmicomics* ISBN 9780544577879
