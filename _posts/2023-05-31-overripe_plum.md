@@ -2,13 +2,19 @@
 layout: post
 title: Overripe Plum
 permalink: blog/overripe_plum
-tags: ["drafts"]
+tags: ["uncategorized"]
+excerpt_separator: <!--more-->
 ---
 
 
-<!-- The examples section isn't cohesive. This is not an enjoyable article -->
-## Overripeplumesque
+_i read a post (tumblr post) (sleepy) it was one sentence (no periods) (no
+commas) and it was stuck in my head (like a song) (sleepy) (malleable) and it
+kept being referenced (tumblr post) and i finally wrote something down about
+it_
 
+<!--more-->
+
+<!-- The examples section isn't cohesive. This is not an enjoyable article -->
 Here's a post I like[^1]:
 
 > stepped on a plum (overripe plum) (barefoot) it was on the driveway got out
