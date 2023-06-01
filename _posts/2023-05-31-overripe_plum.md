@@ -211,7 +211,7 @@ Illustrating the ugliness of being a tourist:
 > they collapse helpless from laughter, mimicking the way they imagine you must
 > look as you carry out some everyday bodily function.
 
-This latter passage includes the run-on aspect of the overripe peach post -
+This latter passage includes the run-on aspect of the overripe plum post -
 it's part of a very long sentence, punctuated with semicolons and hyphens and
 parentheses and commas, which has an immersive effect, and lends itself to
 empathizing with the tourist subject.
