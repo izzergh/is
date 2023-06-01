@@ -2,9 +2,11 @@
 layout: post
 title: Overripe Plum
 permalink: blog/overripe_plum
-tags: ["uncategorized", "drafts"]
+tags: ["drafts"]
 ---
 
+
+<!-- The examples section isn't cohesive. This is not an enjoyable article -->
 ## Overripeplumesque
 
 Here's a post I like[^1]:
